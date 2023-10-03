@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <br>Certainly! Here's an introduction for your GitHub readme file:<br>
-<h1>👋 Hello, I'm Chaitanya SIkakolu!<h1>
+<h1>👋 Hello, I'm Chaitanya SIkakolu!</h1>
 <br><p style="font-size: 12px;">🎓 I'm a second-year Computer Science Engineering student at the prestigious Indian Institute of Information Technology. My passion for technology and software development drives me to explore the exciting world of programming.</p>
 <br><p style="font-size: 12px;">💻 Currently, I'm on a journey to become a Full Stack Developer, and I'm dedicated to honing my skills in web development. My GitHub repository is a canvas where I paint my progress, share my projects, and document my learning experiences.</p>
 <br><p style="font-size: 12px;">🌐 Web development is my forte, and I'm enthusiastic about crafting interactive and user-friendly web applications. With each line of code I write, I strive to create innovative solutions that make a difference.</p>
